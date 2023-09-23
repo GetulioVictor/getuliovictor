@@ -14,7 +14,7 @@ Mathematics | Physics | Operating Systems | Low-level Programming | Cybersecurit
 
 #### 🌱 What I’m currently enhancing:
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  <img src = "https://img.shields.io/badge/verilog-616e88C?style=for-the-badge&logo=v&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>   <img src = "https://img.shields.io/badge/KiCad-457b9d?style=for-the-badge&logo=kic&logoColor=white" /> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  <img src = "https://img.shields.io/badge/verilog-616e88C?style=for-the-badge&logo=v&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> <img src = "https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>   <img src = "https://img.shields.io/badge/KiCad-457b9d?style=for-the-badge&logo=kic&logoColor=white" /> <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"/> 
 
 #### :dart: 2023 goals towards learning:
 
