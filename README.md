@@ -6,7 +6,7 @@
 
 #### 🔭 I'm interested in:
   
-Mathematics | Physics | Operating Systems | Low-level Programming | Cybersecurity | IoT Pentesting | Hardware Hacking | Low-level Programming | Computer Organization and Architecture | Analog and Digital Electronics | Computer Networks
+Mathematics | Physics | Operating Systems | Low-level Programming | Cybersecurity | IoT Pentesting | Hardware Hacking | Computer Organization and Architecture | Analog and Digital Electronics | Computer Networks
 
 #### 🌱 What I’m currently learning:
 
