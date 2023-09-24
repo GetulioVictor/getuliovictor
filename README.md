@@ -38,7 +38,20 @@ Mathematics | Physics | Operating Systems | Low-level Programming | Cybersecurit
 <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 
 #### Programming Languages & Technology:
-<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original-wordmark.svg" width="55"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original-wordmark.svg" width="60" /> <img src = "https://img.shields.io/badge/Assembly%20(x86%20|%20RISC--V)-4c566a?style=for-the-badge&logo=kic&logoColor=white"/> <img src = "https://img.shields.io/badge/System_Verilog-3b4252?style=for-the-badge&logo=kic&logoColor=white"/> <img src = "https://img.shields.io/badge/VHDL-a8dadc?style=for-the-badge&logo=kic&logoColor=white"/> <img src = "https://img.shields.io/badge/Tcl-c1bfbc?style=for-the-badge&logo=kic&logoColor=white"/>
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original-wordmark.svg" width="55"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original-wordmark.svg" width="60" /> 
+<img src = "https://img.shields.io/badge/Assembly%20(x86%20|%20RISC--V)-4c566a?style=for-the-badge&logo=kic&logoColor=white"/> 
+<img src = "https://img.shields.io/badge/System_Verilog-3b4252?style=for-the-badge&logo=kic&logoColor=white"/> 
+<img src = "https://img.shields.io/badge/VHDL-a8dadc?style=for-the-badge&logo=kic&logoColor=white"/> 
+<img src = "https://img.shields.io/badge/Tcl-c1bfbc?style=for-the-badge&logo=kic&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src = "https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 #### Operating Systems:
 
 <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" /> <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" /> <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" /> <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
@@ -50,5 +63,7 @@ Mathematics | Physics | Operating Systems | Low-level Programming | Cybersecurit
 <summary>GitHub Stats</summary>
   </br>
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetulioVictor&layout=compact&theme=dark" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetulioVictor&layout=compact&theme=blue-green" width="400">
 </p>
+
+
