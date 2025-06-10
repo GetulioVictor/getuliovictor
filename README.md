@@ -21,7 +21,8 @@ Hi there, my name is Getúlio Victor and I'm a Computer Engineering Student, Cyb
   <a href="https://www.linkedin.com/in/getulio-victor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## Github Stats
+<details>
+<summary>GitHub Stats</summary>
   </br>
   <p>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetulioVictor&layout=compact&theme=blue-green" width="400">
