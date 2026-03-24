@@ -9,7 +9,6 @@
 $ echo "currently breaking things and documenting it"
 currently breaking things and documenting it
 ```
----
 
 ## $ cat skills.txt
 ```
@@ -21,7 +20,6 @@ currently breaking things and documenting it
 [+] Embedded       ..  STM32 • ESP32 • Raspberry Pi • Arduino • FreeRTOS
 [+] Databases      ..  PostgreSQL • SQLite • Neo4j
 ```
----
 
 ## $ contact --help
 ```
